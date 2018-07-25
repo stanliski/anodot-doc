@@ -13,22 +13,19 @@
 
 
 
-第3章 Dashboard
+第7章 用户管理
 =================
 
 
    通过阅读本章，可以了解到
-    * Dashboard主窗口
-    * 创建新的Dashboard
-    * Dashboard可视化组件
+    * Metrics
+    * Anomiles
+    * Facts & Figures
 
 
 
 .. toctree::
    :maxdepth: 2
-   :caption: 第3章
+   :caption: 第7章
 
-   3_dashboard/0_intro
-   3_dashboard/1_main_dashboard_window
-   3_dashboard/2_new_dashboard
-   3_dashboard/3_viewing_dashboard_tiles
+   7_user_management/0_intro

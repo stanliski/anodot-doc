@@ -64,6 +64,8 @@ Anodot教程内容
    4_metrics
    5_alerts
    6_anomiles
+   7_user_management
+   8_QA
 
 
 Indices and tables
