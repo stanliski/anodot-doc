@@ -32,3 +32,6 @@
    3_dashboard/1_main_dashboard_window
    3_dashboard/2_new_dashboard
    3_dashboard/3_viewing_dashboard_tiles
+   3_dashboard/4_dashboard_chart
+   3_dashboard/5_meter_tiles
+   3_dashboard/6_free_text
