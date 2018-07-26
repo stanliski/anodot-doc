@@ -18,9 +18,11 @@
 
 
    通过阅读本章，可以了解到
-    * Metrics
-    * Anomiles
-    * Facts & Figures
+   
+   - **Anoboard**
+   - **创建一个Anoboard块**
+   - **Anomap**
+   - **Anomile报表**
 
 
 
@@ -29,3 +31,7 @@
    :caption: 第6章
 
    6_anomiles/0_intro
+   6_anomiles/1_anoboard
+   6_anomiles/2_create_anoboard_tile
+   6_anomiles/3_anomap
+   6_anomiles/4_anomile_chart

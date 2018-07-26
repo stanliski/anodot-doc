@@ -18,9 +18,12 @@
 
 
    通过阅读本章，可以了解到
-    * Metrics
-    * Anomiles
-    * Facts & Figures
+   - **Metrics窗口**
+   - **Metrics表达式工作流**
+   - **创建Metrics表达式**
+   - **在Metrics窗口中保存表达式**
+   - **Simple Metrics Search Mode**
+   - **Advance Metrics Search Mode**
 
 
 
@@ -29,3 +32,7 @@
    :caption: 第4章
 
    4_metrics/0_intro
+   4_metrics/1_metrics_window
+   4_metrics/2_metric_expressions_workflow
+   4_metrics/3_creating_metric_expressions
+   4_metrics/4_saving_metric_expressions

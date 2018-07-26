@@ -29,3 +29,4 @@
    :caption: 第7章
 
    7_user_management/0_intro
+   7_user_management/1_creating_and_managing_users

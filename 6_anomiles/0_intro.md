@@ -12,5 +12,10 @@
 
 # 引言
 
-通过阅读本章，可以了解到
-- **MySQL数据集成**
+Anomalies 选项卡是异常的中心存储库
+
+
+- **Anoboard**
+- **创建一个Anoboard块**
+- **Anomap**
+- **Anomile报表**

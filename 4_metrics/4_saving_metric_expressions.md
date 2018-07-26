@@ -10,12 +10,14 @@
 </html>
 
 
-# 引言
+# 4.4 Metrics窗口中保存表达式
 
-通过阅读本章，可以了解到
-- **Metrics窗口**
-- **Metrics表达式工作流**
-- **创建Metrics表达式**
-- **在Metrics窗口中保存表达式**
-- **Simple Metrics Search Mode**
-- **Advance Metrics Search Mode**
+在Metrics窗口中可以保存度量表达式:
+
+- 作为复合Metric
+
+- 保存到Dashboard
+
+- 去创建一个Alert
+
+## 做为一个Composite Metric保存
