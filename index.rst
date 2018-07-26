@@ -30,25 +30,12 @@ Anodot简介
 
     <div style=" overflow: hidden; max-width: 100%; height: auto;">
     <div align="center" class="embed-responsive embed-responsive-16by9">
+      <iframe width="640" height="360" src="https://www.youtube.com/embed/XLPQu5DAoHs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       <iframe width="640" height="360" src="https://www.youtube.com/embed/E8nM_2e6m80" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
     <br/>
     </div>
 
-Anodot教程内容
-====================================
-
-通过阅读本教程可以了解到以下几方面的内容：
-
-通过阅读第一章Anodot概念介绍，可以了解到
-    * Metrics
-    * 异常
-    * Facts & Figures
-
-通过阅读第二章设备连接，可以了解到
-    * 各个平台设备的连接方法
-    * 如何解决连接过程中出现的各种问题
-    * 设备兼容性
 
 
 .. :caption: 主要内容:
@@ -65,7 +52,7 @@ Anodot教程内容
    5_alerts
    6_anomiles
    7_user_management
-   8_QA
+   8_FAQ
 
 
 Indices and tables
