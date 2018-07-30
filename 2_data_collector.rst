@@ -18,9 +18,8 @@
 
 
    通过阅读本章，可以了解到
-    * Metrics
-    * Anomiles
-    * Facts & Figures
+    * Anodot系统接入说明
+    * 集成MySQL数据
 
 
 
@@ -29,4 +28,5 @@
    :caption: 第2章
 
    2_data_collector/0_intro
-   2_data_collector/1_collect_mysql_data
+   2_data_collector/1_import_data
+   2_data_collector/2_collect_mysql_data

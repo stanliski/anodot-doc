@@ -12,6 +12,7 @@
 # 1.3 Facts & Figures
 
 ## 数据和异常保留率
+
 Anodot区分了两种类型的保留率
 - 数据保留率：Anodot保留多少时间的raw data
 - 异常保留率：Anodot保留多少时间的异常数据信息
@@ -21,11 +22,16 @@ Anodot区分了两种类型的保留率
 
 ![image](3_facts_and_figures/facts_and_figures_01.png)
 
+
+
 ## 第一次创建时间基线
 
 根据time scale，需要最少多久的数据来初始化metrics
 
 ![image](3_facts_and_figures/facts_and_figures_02.png)
+
+
+
 
 ## 季节性探测时间
 
@@ -37,6 +43,9 @@ Anodot区分了两种类型的保留率
 探测第一个异常所需要的最小时间
 
 ![image](3_facts_and_figures/facts_and_figures_03.png)
+
+
+
 
 ## 关闭一个异常的最小时间
 

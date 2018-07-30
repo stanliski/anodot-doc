@@ -26,10 +26,9 @@
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: 第5章
 
    5_alerts/0_intro
    5_alerts/1_create_alert
    5_alerts/2_tuning_the_alert_rate
-   5_alerts/3_anomap

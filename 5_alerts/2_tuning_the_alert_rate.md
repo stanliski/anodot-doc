@@ -19,7 +19,6 @@
 
 <iframe width="700" height="390" src="https://www.youtube.com/embed/dhX69uLhN6s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-
 下面我们在通过文字详细描述下过程
 
 ## 调节警报频率
@@ -28,9 +27,9 @@
 
 ![image](https://support.anodot.com/hc/article_attachments/360001426634/AL-2838_Alert_partial_data.png)
 
-> **注意** 如果在给定的时间范围内警报度量和数据点的组合非常大，那么Anodot将使用度量、度量数据点和时间范围的示例。
+> 注意 如果在给定的时间范围内警报度量和数据点的组合非常大，那么Anodot将使用度量、度量数据点和时间范围的示例。
 
-**图例中的曲线颜色**
+## 图例中的曲线颜色
 
 - ![image](2_tuning_the_alert_rate/tuning_the_alert_rate_01.png) 阈值[Static Alerts Only]
 - ![image](2_tuning_the_alert_rate/tuning_the_alert_rate_02.png) 警报满足警报设置面板中设置的所有条件
@@ -43,7 +42,9 @@
 ![image](https://support.anodot.com/hc/article_attachments/360007712734/Trigger_values.png)
 
 - 增加触发警报的每个设置的级别，以降低预估警报率。根据它们的设置，在上面的示例中，Delta和Duration可能会导致警报。
+
 - 要包含不被模拟为警报的异常，降低设置级别。
+
 - 当模拟估计的警报率满足您的需要时，单击`Save`并完成警报定义。
 
 ![image](2_tuning_the_alert_rate/tuning_the_alert_rate_04.png)

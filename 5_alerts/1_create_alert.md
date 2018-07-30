@@ -40,7 +40,7 @@
 
 ![image](1_create_alert/create_alert_02.png)
 
-**Anomaly:当有偏离正常行为值的Metrics数值时进行识别**
+#### Anomaly:当有偏离正常行为值的Metrics数值时进行识别
 
 设置Metrics数据时间尺度间隔[1分钟/5分钟/1小时/1天/1周]。
 
@@ -54,7 +54,7 @@
 
 当想要在异常触发时发出警报，可以设置Direction。默认值是Up & Down。
 
-**Anomaly高级设置**
+#### Anomaly高级设置
 
 单击![image](1_create_alert/create_alert_05.png) 以显示附加的设置。
 设置警报的Significance Score。Significance Score是Anodot对异常的重要性的评估。重要程度取决于Metrics与Metrics过去异常情况相比偏离预期模式的程度和时间。
@@ -82,7 +82,7 @@
 
 当检测到更改时，Anodot将响应，并相应地自动调整警报。
 
-**Static:当有大于或小于静态阈值的Metrics数值时进行识别**
+#### Static:当有大于或小于静态阈值的Metrics数值时进行识别
 
 Metric值设置:
 - 如果Metric值大于或等于您的值，则选择提醒
@@ -90,13 +90,13 @@ Metric值设置:
 
 ![image](1_create_alert/create_alert_11.png)
 
-**No Data Alert:当一段时间内没有连续的Metrics数据时进行识别**
+#### No Data Alert:当一段时间内没有连续的Metrics数据时进行识别
 
 ![image](1_create_alert/create_alert_12.png)
 要定期收到警报更新，请选择`YES`发送更新通知，并在几分钟内设置`Minimum interval between updates in minutes`
 ![image](1_create_alert/create_alert_13.png)
 
-**其他操作**
+#### 其他操作
 1)	设置一个唯一的标题，描述，严重性和状态。
 2)	设置通道和用户
 3)	更改拥有权[只供行政及警告拥有人使用]
